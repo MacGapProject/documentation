@@ -7,14 +7,14 @@ order: 3
 ---
 
 
-## How to change the project name in Xcode
+### How to change the project name in Xcode
 
-* This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
+*This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
 
-## How to build and package your app for distribution
+### How to build and package your app for distribution
 
-* This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
+*This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
 
-## Building for Mac App Store submission
+### Building for Mac App Store submission
 
-* This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
+*This documentation is incomplete. Please help us by [contributing your knowledge](http://docs.macgap.com/doc/contributing.html)*
