@@ -7,3 +7,15 @@ order: 4
 ---
 
 
+MacGap triggers various events on the DOM document.
+
+### sleep
+
+### wake
+
+### appActivated
+
+### userDefaultsChanged
+
+### statusItemClick
+
