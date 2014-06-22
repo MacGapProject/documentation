@@ -18,7 +18,7 @@ We would also like:
 
 To contribute to the documentation, please clone this repository and submit a pull request like you would on any other repository.
 
-The documentation is generated using (Jekyll)[https://github.com/jekyll/jekyll]. The page for each command is inside _posts and is written in Markdown format. Filenames must follow the syntax expected by Jekyl:
+The documentation is generated using [Jekyll](https://github.com/jekyll/jekyll). The page for each command is inside _posts and is written in Markdown format. Filenames must follow the syntax expected by Jekyll:
 
 `YEAR-MM-DD-description.md`
 
