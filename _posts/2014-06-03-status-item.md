@@ -29,8 +29,8 @@ MacGap.StatusItem.create({image:"path/to/image", alternateImage: "path/to/altima
 var menu  = MacGap.Menu.create('My Menu', 'statusbar'); 
 
 // add items to the menu
-menu.addItem('My Menu Item', '', 0, function() { alert('I was clicked!'); });
-menu.addItem('Another Menu Item', '', 1, function() { ... });
+menu.addItem({label: 'My Menu Item', keys: '', index: 0}, function() { alert('I was clicked!'); });
+menu.addItem({label: 'Another Menu Item', keys: '', index: 1}, function() { ... });
 
 // Add the menu to the status item.
 MacGap.StatusItem.menu = menu;
