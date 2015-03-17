@@ -23,6 +23,16 @@ code {
     color: inherit;
 }
 
+td, th { 
+    padding:6px; 
+}
+thead { 
+    border-bottom:2px solid #ccc; 
+}
+tbody th, tbody td { 
+    border-top:1px solid #ccc; 
+}
+
 #header {
     border-bottom: 1px solid #eee;
     margin-bottom: 20px;
