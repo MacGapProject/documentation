@@ -1,6 +1,6 @@
 # Documentation for MacGap 2
 
-The documentation is available at http://docs.macgap.com
+The documentation is available at https://macgapproject.github.io/documentation/
 
 ### Contributing
 
@@ -12,7 +12,7 @@ We would love your help improving this documentation:
 
 We would also like:
 
-* CSS / HTML theming help (see http://docs.macgap.com for how it looks right now)
+* CSS / HTML theming help (see https://macgapproject.github.io/documentation/ for how it looks right now)
 
 ### Getting started
 
