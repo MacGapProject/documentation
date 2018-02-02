@@ -3,7 +3,7 @@ layout: default
 title: "Jekyll Docs Template"
 ---
 
-#MacGap
+# MacGap
 
 The MacGap project provides HTML/JS/CSS developers an Xcode project for developing Native OSX Apps.
 
@@ -19,15 +19,15 @@ The project exposes a JavaScript API for OS X integration, such as displaying na
 
 MacGap 2 works on OSX 10.9 and later. MacGap 1 works on OSX 10.6 and later.
 
-##API
+## API
 
 MacGap exposes an object called `MacGap` inside JavaScript.
 
-##Attributes
+## Attributes
 
 MacGap was forked/ported from Phonegap-mac. It's under the same license (MIT).
 
-##Custom Build
+## Custom Build
 
 To build, make sure you have installed the latest Mac OSX Core Library. Download at [http://developer.apple.com/](http://developer.apple.com/).
 
